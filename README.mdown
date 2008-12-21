@@ -1,0 +1,1 @@
+This plug-in looks for Mac keyboard shortcuts, such as `⇧⌘R`, and adds an `abbr` tag with an appropriate title (in this case “Shift-Command-R”).
