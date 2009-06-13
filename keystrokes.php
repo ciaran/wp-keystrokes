@@ -42,7 +42,7 @@ function add_keystroke_tooltip($matches) {
 			'"' => 'Double quote',
 			'\'' => 'Single quote',
 
-			';' => 'Colon',
+			':' => 'Colon',
 			'+' => 'Plus',
 			'-' => 'Minus',
 			';' => 'Semi-colon',
